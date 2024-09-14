@@ -1,0 +1,83 @@
+Concepts -
+
+**Google App Engine** and **Heroku** are both cloud platforms that allow developers to build, deploy, and manage applications without worrying about managing the underlying hardware or servers. Here’s a simple explanation:
+
+### **Google App Engine (GAE):**
+- **What it is:** Google App Engine is a service provided by Google where you can run your applications on Google's infrastructure.
+- **How it works:** You upload your code (app), and Google takes care of everything else like servers, scaling, and maintenance.
+- **Why it's useful:** You don’t need to worry about buying servers or managing traffic spikes. Google automatically scales your app based on demand.
+- **Example:** If you have a small app that helps people track their fitness, you can deploy it on Google App Engine. As more users start using it, Google will automatically add resources to handle the extra load.
+
+### **Heroku:**
+- **What it is:** Heroku is another cloud platform where you can deploy and manage apps, similar to Google App Engine.
+- **How it works:** You push your app’s code to Heroku, and they handle the rest, like setting up the infrastructure, running your app, and scaling it when needed.
+- **Why it's useful:** It’s beginner-friendly, with a simple setup and easy integration with tools like GitHub. Heroku also supports multiple programming languages.
+- **Example:** If you create a website to showcase your portfolio, you can deploy it on Heroku, and they will make sure it’s available online and runs smoothly without you managing the technical details.
+
+### Key Differences:
+- **Google App Engine** is more integrated with Google's ecosystem (useful if you want to leverage other Google services).
+- **Heroku** is known for being easy to use and developer-friendly, especially for beginners or smaller projects.
+
+Both services help you focus on coding while they handle the heavy lifting of server management!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**GitHub** is a platform for storing, sharing, and collaborating on code projects. It uses **Git**, a version control system, to help developers keep track of changes in their code.
+
+Here’s an easy explanation:
+
+- **What it does:** GitHub allows you to store your code online, track changes, and work with others on the same project without worrying about overwriting each other's work.
+  
+- **How it works:** When you make changes to your project, you can "commit" those changes (save a snapshot of your work). GitHub keeps a history of all these changes, so you can always go back to an earlier version if something breaks.
+
+- **Why it's useful:**
+  - **Collaboration:** Multiple developers can work on the same project from anywhere in the world. You can suggest changes, fix bugs, or improve features using something called a "pull request."
+  - **Backup:** Since your code is stored online, it serves as a backup in case something happens to your local files.
+  - **Version control:** You can track every single change made to the project, see who made the change, and why. It’s easy to undo mistakes and compare previous versions of the code.
+
+- **Example:** Imagine you're building a website. You start by writing the code and save it on GitHub. Then, a friend or teammate can also access the code, suggest improvements, or add new features. You both can work on the project without interfering with each other’s work because GitHub manages the versions of your project.
+
+In short, GitHub is a great tool for developers to store, track, and collaborate on code.
+
+
+
+
+
+
+
+
+
+
+
+
+Netlify is primarily a **Platform as a Service (PaaS)**.
+
+Here's how it fits into the categories:
+
+1. **Platform as a Service (PaaS)**:  
+   - **Netlify** provides developers with an easy-to-use platform to deploy, host, and manage websites and web applications without needing to worry about servers or infrastructure. 
+   - It handles things like continuous deployment (automatically updating your site when you push new code), serverless functions, and content delivery networks (CDNs).
+   - **Example of PaaS functionality:** You write your code, push it to GitHub, and Netlify takes care of deploying it to the web.
+
+### Quick Comparison of Models:
+
+- **SaaS (Software as a Service):** Provides software applications over the internet (like Google Docs or Gmail).
+- **PaaS (Platform as a Service):** Provides a platform for developers to build, deploy, and manage applications (like Netlify or Heroku).
+- **IaaS (Infrastructure as a Service):** Provides virtualized computing resources over the internet (like AWS EC2 or Google Compute Engine), where you manage the software stack but use their hardware.
+
+Netlify abstracts much of the infrastructure management (like scaling, CDNs, and hosting) so you can focus on development, which is why it’s classified as a **PaaS**.

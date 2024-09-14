@@ -1,0 +1,28 @@
+platfrom as a service -- used by developers -- development tools
+
+- Hroku
+- Google App Enginer
+- Windows Azure  --- By Microsoft
+- Force.com 
+
+
+
+
+IAAS -- AWS ----compute section ----- EC2 (We can get virtual server, virtual machines
+
+EC2 is a Web Service
+
+
+IBM Cloud
+AWS
+Oracle Cloud Infrastructure
+Google Cloud Infrastructure
+
+
+
+geeksforgeeks
+ibm
+tutorialspoint
+
+
+
